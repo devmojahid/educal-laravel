@@ -1,3 +1,31 @@
+<section>
+										<h3>Now Admin Can Login And Change YOur Info</h3>
+										
+										<p>Login Site account by typing <code>http://your-url.com/login</code>, replacing "YOURDOMAIN" with the actual domain you own.</p>
+										<blockquote class="media notice notice-warning">
+										<h4>Administrator</h4>
+										<p>
+											<strong>Username:</strong><code>admin@gmail.com</code>
+											<strong>Password:</strong><code>12345678</code>
+										</p>
+
+										<h4>Instuctor</h4>
+										<p>
+											<strong>Username:</strong><code>teacher@gmail.com</code>
+											<strong>Password:</strong><code>12345678</code>
+										</p>
+
+										<h4>Student</h4>
+										<p>
+											<strong>Username:</strong><code>student@gmail.com</code>
+											<strong>Password:</strong><code>12345678</code>
+										</p>
+									</blockquote>
+										<figure>
+											<img src="assets/images/demo/login.png" alt="4.1.1" class="doc-image">
+											
+										</figure>
+									</section>
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
